@@ -56,5 +56,5 @@ For this project was used PowerBI and Microsoft Excel for data processing and cl
 
 ## Credits
 
-All code and development performed by [Ricardo Faría](https://www.linkedin.com/in/ricardo-e-faria-romero/?locale=en_US) 
+All code and development performed by [Ricardo Faría](https://www.linkedin.com/in/ricardo-e-faria-romero/?locale=en_US) and Rocío Masullo.
 
